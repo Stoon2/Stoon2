@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/mohamed-elsayed-637471114/)">
+  <a href="https://www.linkedin.com/in/mohamed-elsayed-637471114/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
